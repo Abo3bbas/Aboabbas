@@ -545,7 +545,7 @@ body {
 }
 @keyframes animate-path4 {
   100% {
-    stroke-dashoffset: 250;
+    stroke-dashoffset: 80;
   }
 }
 
